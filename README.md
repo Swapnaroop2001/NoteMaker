@@ -99,7 +99,7 @@ NoteMaker-backend/
 ### 🏠 Homepage
 ![Homepage](student-records-frontend/public/Main.png)
 
-### ✏️ Edit Note Page
+### ✏️ Edit/View Note Page
 ![Edit Note Page](student-records-frontend/public/for-edit-button.png)
 
 ### 🗑️ Delete Button
