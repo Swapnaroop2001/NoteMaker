@@ -97,13 +97,13 @@ NoteMaker-backend/
 ![Login Page](student-records-frontend/public/Login-Page.png)
 
 ### 🏠 Homepage
-![Homepage](https://via.placeholder.com/800x400?text=Homepage)
+![Homepage](student-records-frontend/public/Main.png)
 
-### 📑 Notes List
-![Notes List](https://via.placeholder.com/800x400?text=Notes+List)
+### ✏️ Edit Note Page
+![Edit Note Page](student-records-frontend/public/for-edit-button.png)
 
-### ✏️ Create/Edit Note
-![Create/Edit Note](https://via.placeholder.com/800x400?text=Create/Edit+Note)
+### 🗑️ Delete Button
+![Delete Button](student-records-frontend/public/for-delete-button.png)
 
 ---
 
